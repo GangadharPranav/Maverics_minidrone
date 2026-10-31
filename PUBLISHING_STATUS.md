@@ -1,6 +1,6 @@
 # Publishing status — 31 October 2026
 
-Source snapshot from C:/Users/ganga/MATLAB/Projects/temp. These exact files have not received a new full regression or code-generation verification in this publishing task. Do not describe this snapshot as fault-free, hardware-tested, or validated on every track. Earlier experimental sources had a dense-hairpin premature-landing failure; that evidence does not certify these bytes.
+Source snapshot from C:/Users/ganga/MATLAB/Projects/temp. These exact files have not received a new full regression or code-generation verification in this publishing task. Do not describe this snapshot as fault-free, hardware-tested, or validated on every track. The project owner reports that the edge-clipping issue has been fixed using Antigravity. The exact fixed project folder and matching demonstration are being identified before updating this source snapshot. Historical failures from other experimental versions do not establish the status of this owner-reported fix.
 
 This folder contains eight project-specific MATLAB helpers only. It omits MathWorks starter models, generated caches, compiled binaries, private local logs, and track data. Obtain the official starter separately and preserve its licensing terms. No license for MathWorks files is granted here.
 
