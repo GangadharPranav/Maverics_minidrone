@@ -1,0 +1,42 @@
+[
+  {
+    "file": "00_custom_three_section.mp4",
+    "revision": "R34_final10",
+    "case": 0,
+    "sourceCsvSha256": "4b89accb7ab6016414bc1543ccc4073aaa0889dc5a54caa36d1c15da9c0b312e",
+    "videoSha256": "f178a861066ef83daa143e8e164040d1dd91a73bd5556ae02df53c451df0d4ce",
+    "bytes": 86992,
+    "simSeconds": 60.4,
+    "note": "Historical telemetry replay. Source-specific results; no all-track claim."
+  },
+  {
+    "file": "01_six_section_turns.mp4",
+    "revision": "R34_final10",
+    "case": 1,
+    "sourceCsvSha256": "35601f739d92bdd2a1960ca09bd2c107e5e3767d53759714ceb20e0d43960876",
+    "videoSha256": "f5f2424e3e105fe139ba375b502c9a1f27abebb4b66c180b04ee0dab7fed70d2",
+    "bytes": 146294,
+    "simSeconds": 86.3,
+    "note": "Historical telemetry replay. Source-specific results; no all-track claim."
+  },
+  {
+    "file": "02_long_hairpins.mp4",
+    "revision": "R34_final10",
+    "case": 2,
+    "sourceCsvSha256": "a29ffce513ec422d37028a4e1695c08efdf035c1aaca3f246f4e4d759e59157c",
+    "videoSha256": "a6f573dcc3d94105f9359fef0b7cde147517be396e4f1dc69f5c38b7393af6ef",
+    "bytes": 152557,
+    "simSeconds": 89.6,
+    "note": "Historical telemetry replay. Source-specific results; no all-track claim."
+  },
+  {
+    "file": "03_compact_four_section.mp4",
+    "revision": "R34_final10",
+    "case": 3,
+    "sourceCsvSha256": "5cb3e5271f74c562fd71d8466851a069fa636765d6bfcf0cc91752d4c3af03f6",
+    "videoSha256": "663028ed3912246c133b0f4a0199cb58b68f9aa139617ed047a737164b5fcab6",
+    "bytes": 71686,
+    "simSeconds": 48.4,
+    "note": "Historical telemetry replay. Source-specific results; no all-track claim."
+  }
+]
